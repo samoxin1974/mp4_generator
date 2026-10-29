@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+.claude/
+
+# PyInstaller / build output (regenerate with build_dmg.py)
+build/
+dist/
+
+# Standalone x86_64 ffmpeg binary (80 MB, not used by the app)
+/ffmpeg
